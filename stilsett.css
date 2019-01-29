@@ -31,3 +31,7 @@ body {
     border-radius: 4px;
     margin: 10px;
 }
+footer {
+    display: block;
+    text-align: center;
+}
